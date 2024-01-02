@@ -19,7 +19,7 @@
 
 <br />
 
-<h2 align="center">My Tech Stack:heavy_check_mark:</h2>
+<h2 align="center">My Tech Stack✔️</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,tailwind,firebase,jest,github,)](https://skillicons.dev"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,redux,tailwind,firebase,jest,github,)](https://skillicons.dev"/>
 </div>
