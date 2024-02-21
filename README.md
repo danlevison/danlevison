@@ -1,9 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=danlevison.danlevison" />
 
-<h1 align="center">Hi, I'm Dan Levison👋</h1>
+<h1 align="center">Hi, I'm Dan 👋</h1>
 
 <h3 align="center">A passionate Front-End Developer from the UK</h3>
-<p align="center">Currently learning Prompt/AI Engineering 👨‍🎓</p>
+<p align="center">Currently learning Docker 👨‍🎓</p>
 
 <div align="center"> 
   <a href="mailto:dan.ejlevison@gmail.com">
