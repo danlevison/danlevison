@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Dan 👋</h1>
 
 <h3 align="center">A passionate Front-End Developer from the UK</h3>
-<p align="center">Currently learning Docker 👨‍🎓</p>
+<p align="center">Working on a browser based DICOM viewer</p>
 
 <div align="center"> 
   <a href="mailto:dan.ejlevison@gmail.com">
