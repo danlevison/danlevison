@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=danlevison.danlevison" />
-
 <p align="center">Working on a browser based DICOM viewer</p>
 
 <h2 align="center">My Tech Stack✔️</h2>
